@@ -1,4 +1,7 @@
-# test coverage for  [moment-range (v3.0.3)](https://github.com/gf3/moment-range)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-range.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-range) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-range.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-range)
+# npmtest-moment-range
+
+#### test coverage for  [moment-range (v3.0.3)](https://github.com/gf3/moment-range)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-range.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-range) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-range.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-range)
+
 #### Fancy date ranges for Moment.js
 
 [![NPM](https://nodei.co/npm/moment-range.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/moment-range)
