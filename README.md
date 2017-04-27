@@ -1,6 +1,6 @@
 # npmtest-moment-range
 
-#### test coverage for  [moment-range (v3.0.3)](https://github.com/gf3/moment-range)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-range.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-range) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-range.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-range)
+#### basic test coverage for  [moment-range (v3.0.3)](https://github.com/gf3/moment-range)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-range.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-range) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-range.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-range)
 
 #### Fancy date ranges for Moment.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-moment-range/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-moment-range/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-moment-range/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-moment-range/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment-range/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment-range/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-moment-range/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-moment-range/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment-range/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment-range/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-moment-range/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-moment-range/build/coverage.html/index.html)
 
@@ -200,7 +200,8 @@
         "test": "karma start ./karma.conf.js",
         "version": "npm run build; cp ./declarations/moment-range.js.flow ./dist"
     },
-    "version": "3.0.3"
+    "version": "3.0.3",
+    "bin": {}
 }
 ```
 
